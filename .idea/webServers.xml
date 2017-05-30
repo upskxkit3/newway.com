@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5e7e2c72-d829-472c-b396-da5665d0efca" name="vdent103_ftp" url="http://vdent103.ftp.ukraine.com.ua">
+        <fileTransfer host="vdent103.ftp.ukraine.com.ua" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="52383e0f-8d4a-4be0-8b79-bdfdc3458b1c" name="rauta" url="http://zvh16.mirohost.net">
+        <fileTransfer host="zvh16.mirohost.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
